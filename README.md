@@ -9,7 +9,8 @@ But<br>
 - 📫 How to reach me: [`At my organisation's eMail`](mailto:info@thejakobcraft.xyz).
 <br>
 But now,<br>
-> Happy Coding!
+
+### Happy Coding!
 
 <!--
 **jkampich1411/jkampich1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
