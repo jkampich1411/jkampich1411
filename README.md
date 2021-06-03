@@ -2,34 +2,32 @@
 I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school. I am also a Artist who creates music [`@here`](https://open.spotify.com/artist/4HrpPCrSX7RWy5MOxSvHzy).
 
 ## 🔧 Skills and Software
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Shell-CMD-informational?style=flat&logo=gnu-bash&logoColor=black&color=2bbc8a&style=for-the-badge)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=black&color=2bbc8a&style=for-the-badge)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=black&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=black&color=yellowgreen)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=blueviolet)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=black&color=informational)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=black&color=success)
+![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=black&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=black&color=informational)
 
-## 📱 Social Media
-You can find me on 
-<a href=[1]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="25px"><b> YouTube<b></a>,
-<a href=[2]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/twimg.png" width="20px"><b> Twitch<b></a> and
-<a href=[3]><img src="http://i.imgur.com/wWzX9uB.png" width="25px"><b> Twitter<b></a>.
+## 📱 My Social Media:
+[![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([1])
+[![twit](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([3])
+[![git](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]([4])
 
-## 📱 Socials
+![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)
+![dc](https://img.shields.io/discord/510412740364599317?label=Discord&logo=discord&style=for-the-badge&color=blue)
 ![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)
 ![gitorgstars](https://img.shields.io/github/stars/thejakobcraft?label=Org%20Stars&logo=github&style=for-the-badge)
-![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)
-![twitstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)
-![dc](https://img.shields.io/discord/510412740364599317?label=Discord&logo=discord&style=for-the-badge)
+![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)
 
 ## &#x1f4c8; GitHub Stats
 [![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
 [![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
 [![jc git staz](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
-## Support Me:
+## 💳 Support Me:
 [![gitfollow](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
 
 ##
@@ -43,8 +41,8 @@ JakobKampichler™ Development
 
 <!--LINX-->
 [1]: https://youtube.com/thejakobcraft
-[2]: https://twitch.tv/thejakobcrafttv
 [3]: https://twitter.com/thejakobcraft
+[4]: https://github.com/thejakobcraft
 
 
 <!--
