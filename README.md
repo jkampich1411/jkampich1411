@@ -37,7 +37,7 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 ***
 JakobKampichler™ Development
 
-(c) 2021 - JakobKampichler™
+© 2021 - JakobKampichler™
 
 <!--LINX-->
 [1]: https://youtube.com/thejakobcraft
