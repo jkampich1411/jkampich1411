@@ -13,7 +13,7 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 
 ## 📱 Social Media
 You can find me on 
-<a href=[1]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="30px"><b> YouTube<b></a>,
+<a href=[1]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="25px"><b> YouTube<b></a>,
 <a href=[2]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/twimg.png" width="20px"><b> Twitch<b></a> and
 <a href=[3]><img src="http://i.imgur.com/wWzX9uB.png" width="25px"><b> Twitter<b></a>.
 
