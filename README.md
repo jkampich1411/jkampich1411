@@ -3,7 +3,7 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff from
 
 ## Social Media
 You can find me on
-- [![Youtube][<img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="30px">]][1]
+- [![<img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="30px">][1]
 - [![Twitch][2.2]][2]
 
 <!--ICONS-->
