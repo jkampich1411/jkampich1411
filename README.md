@@ -22,6 +22,11 @@ You can find me on
 [![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
 
+### Happy Coding
+***
+JakobKampichler™ Development
+(c) 2021 - JakobKampichler™
+
 <!--LINX-->
 [1]: https://youtube.com/thejakobcraft
 [2]: https://twitch.tv/thejakobcrafttv
