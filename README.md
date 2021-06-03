@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Jakob aka. theJakobcraft!
 I love coding!
-- 🔭 I’m currently working on my Discord Bot!
-- 🌱 I’m currently learning C++;<br>
+- 🔭 I’m currently working on my Discord Bot [`@here`](https://github.com/jkampich1411/jbot)!
+- 🌱 I’m currently learning C++ and C#;<br>
 But<br>
-- 🤔 I’m looking for help with it, because I can't learn for school and C++ simultaneously.
+- 🤔 I’m looking for help with it, because I can't learn for school and these things simultaneously.
 - ⚡ Fun fact: I love pizza and spaghetti, and I'm actually on 6th Grade.
 - 📫 How to reach me: [`At my organisation's eMail`](mailto:info@thejakobcraft.xyz).
 <br>
