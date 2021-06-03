@@ -29,6 +29,11 @@ You can find me on
 [![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
 [![jc git staz](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
+## Support Me:
+[![gitfollow](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
+
+##
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
 
 ### Happy Coding
 ***
