@@ -2,14 +2,14 @@
 I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school. I am also a Artist who creates music [`@here`](https://open.spotify.com/artist/4HrpPCrSX7RWy5MOxSvHzy).
 
 ## 🔧 Skills and Software
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=black&color=blue)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=black&color=yellowgreen)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=black&color=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=yellow)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=black&color=informational)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=black&color=success)
-![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=black&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=black&color=informational)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
+![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=informational)
 
 ## 📱 My Social Media:
 [![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([1])
@@ -24,14 +24,14 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 
 ## &#x1f4c8; GitHub Stats
 [![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
-[![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
-[![jc git staz](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
+[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
+[![jcSHrep](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
 ## 💳 Support Me:
-[![gitfollow](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
+[![paypalmeCASH](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
 
-##
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
+## 🎶 Recent Spotify Activity
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
 
 ### Happy Coding
 ***
