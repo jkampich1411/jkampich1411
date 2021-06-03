@@ -25,6 +25,7 @@ You can find me on
 ### Happy Coding
 ***
 JakobKampichler™ Development
+
 (c) 2021 - JakobKampichler™
 
 <!--LINX-->
