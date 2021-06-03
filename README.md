@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">!
+# Hi there <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px"> !
 I'm Jakob aka. theJakobcraft!
 I love coding!
 - 🔭 I’m currently working on my Discord Bot [`@here`](https://github.com/jkampich1411/jbot)!
