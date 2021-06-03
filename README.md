@@ -13,13 +13,14 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 
 ## 📱 Social Media
 You can find me on 
-<a href=[1]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="20px"></a>,
-<a href=[2]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/twimg.png" width="20px"></a> and
-<a href=[3]><img src="http://i.imgur.com/wWzX9uB.png" width="25px"></a>.
+<a href=[1]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/ytimg.png" width="20px"><b> YouTube<b></a>,
+<a href=[2]><img src="https://github.com/jkampich1411/jkampich1411/blob/main/img/twimg.png" width="20px"><b> Twitch<b></a> and
+<a href=[3]><img src="http://i.imgur.com/wWzX9uB.png" width="25px"><b> Twitter<b></a>.
 
 ## &#x1f4c8; GitHub Stats
 [![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
-[![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
+[![jc git staz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
+[![jc git staz](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
 
 ### Happy Coding
