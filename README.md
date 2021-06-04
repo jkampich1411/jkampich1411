@@ -11,6 +11,11 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=informational)
 
+## &#x1f4c8; GitHub Stats
+[![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
+[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
+[![jcSHrep](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
+
 ## 📱 My Social Media:
 [![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([1])
 [![twit](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([3])
@@ -21,11 +26,6 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 [![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)](https://thejakobcraft.xyz)
 [![gitorgstars](https://img.shields.io/github/stars/thejakobcraft?label=Org%20Stars&logo=github&style=for-the-badge)](https://thejakobcraft.xyz)
 [![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)](https://thejakobcraft.xyz)
-
-## &#x1f4c8; GitHub Stats
-[![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
-[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
-[![jcSHrep](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://thejakobcraft.xyz)
 
 ## 💳 Support Me:
 [![paypalmeCASH](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
