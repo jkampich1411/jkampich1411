@@ -4,12 +4,16 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 ## 🔧 Skills and Software
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellowgreen)
+
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=informational)
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-MetaSploit-informational?style=for-the-badge&logo=metasploit&logoColor=white&color=informational)
 
 ## &#x1f4c8; GitHub Stats
 [![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
