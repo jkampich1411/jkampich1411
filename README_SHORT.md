@@ -1,6 +1,6 @@
 ***
 
-## Hi there! <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">
+## Hi there! [![wave](https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif)](https://thejakobcraft.xyz)
 I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school. I am also a Artist who creates music [`@here`](https://open.spotify.com/artist/4HrpPCrSX7RWy5MOxSvHzy).
 
 ## 🔧 Skills and Software
