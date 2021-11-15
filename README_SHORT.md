@@ -14,23 +14,17 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 [![](https://img.shields.io/badge/Shell-CMD-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blueviolet)](https://thejakobcraft.xyz)
 
 ## 📱 My Social Media:
-[![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([1])
-[![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)]([1])
+[![yt](https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/thejakobcraft)
+[![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)](https://youtube.com/thejakobcraft)
 
-[![twitch](https://img.shields.io/badge/twitch-%2300acee.svg?&style=for-the-badge&logo=twitch&logoColor=white)]([4])
-[![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)]([4])
+[![twitch](https://img.shields.io/badge/twitch-%2300acee.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/thejakobcrafttv)
+[![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)](https://twitch.tv/thejakobcrafttv)
 
-[![twit](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([2])
-[![git](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]([3])
+[![twit](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejakobcraft)
+[![git](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/thejakobcraft)
 
 ### Happy Coding
 ***
-
-<!--LINX-->
-[1]: https://youtube.com/thejakobcraft
-[2]: https://twitter.com/thejakobcraft
-[3]: https://github.com/thejakobcraft
-[4]: https://twitch.tv/thejakobcrafttv
 
 <!--
 **jkampich1411/jkampich1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
