@@ -6,4 +6,4 @@ You can now use the endpoint [`https://resourcepacks.jkdev.workers.dev/pull?file
 You can always deactivate the Resource Pack Loader by going to [this](https://resourcepacks.jkdev.workers.dev/unlink) link and unlinking `Resource Pack Loader`!
 
 ---
-`Resource Pack Loader made by ` [`jkdev (thejakobcrafttv)`](https://jkdev.pages.dev)!
+Resource Pack Loader made by [`jkdev (thejakobcrafttv)`](https://jkdev.pages.dev)!
