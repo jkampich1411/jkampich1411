@@ -1,7 +1,7 @@
 ---
 name: Support Request
 about: If you got here from any Support URL click here!
-title: "[REQUEST] >>"
+title: "[REQUEST] "
 labels: support
 assignees: ''
 
