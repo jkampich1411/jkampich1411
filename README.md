@@ -17,8 +17,8 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 ![](https://img.shields.io/badge/Tools-MetaSploit-informational?style=for-the-badge&logo=metasploit&logoColor=white&color=informational)
 
 ## &#x1f4c8; GitHub Stats
-[![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://thejakobcraft.xyz)
-[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://thejakobcraft.xyz)
+[![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://jkdev.run)
+[![jcGITstaz](https://github-readme-stats.vercel.app/api/top-langs/?username=jkampich1411&theme=synthwave&hide_border=true&langs_count=3&exclude-repo=jcquest_bs)](https://jkdev.run)
 [![jcSHrep](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=jbot&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/jkampich1411/jbot)
 [![jcSHrpyhue](https://github-readme-stats.vercel.app/api/pin/?username=jkampich1411&repo=pyhue&show_owner=true&theme=synthwave&hide_border=true)](https://github.com/jkampich1411/pyhue)
 
@@ -27,11 +27,11 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 [![twit](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([3])
 [![git](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)]([4])
 
-[![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)](https://thejakobcraft.xyz)
-[![dc](https://img.shields.io/discord/510412740364599317?label=Discord&logo=discord&style=for-the-badge&color=blue)](https://thejakobcraft.xyz)
-[![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)](https://thejakobcraft.xyz)
-[![gitorgstars](https://img.shields.io/github/stars/thejakobcraft?label=Org%20Stars&logo=github&style=for-the-badge)](https://thejakobcraft.xyz)
-[![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)](https://thejakobcraft.xyz)
+[![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)](https://jkdev.run)
+[![dc](https://img.shields.io/discord/510412740364599317?label=Discord&logo=discord&style=for-the-badge&color=blue)](https://jkdev.run)
+[![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)](https://jkdev.run)
+[![gitorgstars](https://img.shields.io/github/stars/thejakobcraft?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.run)
+[![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)](https://jkdev.run)
 
 ## 💳 Support Me:
 [![paypalmeCASH](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/thejakobcraft)
@@ -42,14 +42,13 @@ I'm Jakob aka. theJakobcraft! I am a developer who tries to make cool stuff. I a
 
 ### Happy Coding
 ***
-JakobKampichler™ Development
 
-© 2021 - JakobKampichler™
+© 2021 - 2022; made by Aimee
 
 <!--LINX-->
-[1]: https://youtube.com/thejakobcraft
-[3]: https://twitter.com/thejakobcraft
-[4]: https://github.com/thejakobcraft
+[1]: https://youtube.com/jkdevmc
+[3]: https://twitter.com/kampichlerjakob
+[4]: https://github.com/jkdevrun
 
 
 <!--
