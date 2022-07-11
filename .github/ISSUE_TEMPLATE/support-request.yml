@@ -39,7 +39,6 @@ body:
       label: What happened? / What is your Question?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what is up!
-      value: ""
     validations:
       required: true
   - type: input
@@ -48,7 +47,6 @@ body:
       label: Version
       description: What version of our software are you running?
       placeholder: vX.X.X
-      value: ""
     validations:
       required: true
   - type: input
