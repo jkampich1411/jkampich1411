@@ -1,14 +1,24 @@
 name: Support Request
 description: File a support request
-title: "[SUPPORT] "
+title: "[SUPPORT]: "
 labels: ["support"]
-assignees:
-  - jkdev-github-bot
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        You are currently submitting a support request.
+        If you experiencing any bugs, please create a bug report [here](https://github.com/jkampich1411/jkampich1411/issues/new)!
+  - type: dropdown
+    id: type-of-support
+    attributes:
+      label: Why are you creating this request?
+      description: Are you having a question or is something on your mind that you want us to know?
+      options:
+        - Generic Support Request
+        - Question
+        - Feedback
+      validations:
+        required: true
   - type: input
     id: contact
     attributes:
@@ -46,17 +56,11 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
   - type: checkboxes
-    id: terms
+    id: duplicate
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Have you checked if this request is duplicate?
+      description: Did you check among other issues if it is duplicate?
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I have checked among other issues.
           required: true
