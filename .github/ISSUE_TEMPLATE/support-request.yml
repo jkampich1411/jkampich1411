@@ -17,8 +17,8 @@ body:
         - Generic Support Request
         - Question
         - Feedback
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: contact
     attributes:
