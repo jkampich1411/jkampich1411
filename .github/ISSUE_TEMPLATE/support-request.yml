@@ -6,56 +6,58 @@ body:
   - type: markdown
     attributes:
       value: |
-        You are currently submitting a support request.
-        If you experiencing any bugs, please create a bug report [here](https://github.com/jkampich1411/jkampich1411/issues/new/choose)!
+        ## You are currently submitting a support request.
+        If you experiencing any critical bugs, which require immediate action, please create a bug report [here](https://github.com/jkampich1411/jkampich1411/issues/new/choose)!
+  - type: markdown
+    attributes:
+      value: |
+        ## A bot called @jkdev-github-bot will be replying to your issue after creation. Please respond to any questions it has! Thank you!
   - type: dropdown
     id: type-of-support
     attributes:
       label: Why are you creating this request?
-      description: Are you having a question or is something on your mind that you want us to know?
+      description: Are you having a question or are you experiencing a bug?
       options:
-        - Generic Support Request
-        - Question
-        - Feedback
-    validations:
-      required: true
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+        - Question about Software
+        - Bug Report
     validations:
       required: true
   - type: dropdown
+    id: what-software-support
+    attributes:
+      label: What software needs support?
+      description: For what software do you want to file a support request?
+      options:
+        - VSCode Extension
+        - Statuspage
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened? / What is your Question?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what is up!
+      value: ""
+    validations:
+      required: true
+  - type: input
     id: version
     attributes:
       label: Version
       description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      placeholder: vX.X.X
+      value: ""
     validations:
       required: true
-  - type: dropdown
-    id: browsers
+  - type: input
+    id: system
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What system version are you using?
+      description: 'Please copy/paste the output of "uname -a" (or "winver") here!'
       multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      placeholder: uname -a / winver
   - type: checkboxes
     id: duplicate
     attributes:
