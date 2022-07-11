@@ -54,7 +54,6 @@ body:
     attributes:
       label: What system version are you using?
       description: Please copy/paste the output of "uname -a" (or "winver") here!
-      multiple: true
       placeholder: uname -a / winver
   - type: checkboxes
     id: duplicate
