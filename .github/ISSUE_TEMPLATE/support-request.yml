@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         You are currently submitting a support request.
-        If you experiencing any bugs, please create a bug report [here](https://github.com/jkampich1411/jkampich1411/issues/new)!
+        If you experiencing any bugs, please create a bug report [here](https://github.com/jkampich1411/jkampich1411/issues/new/choose)!
   - type: dropdown
     id: type-of-support
     attributes:
