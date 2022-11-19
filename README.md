@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">
 
-I'm Aimee! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school. I love playing Minecraft and creating Datapacks / Plugins for the game. I am a big fan of [MCChampionships](https://noxcrew.com/mcc) made by the [Noxcrew](https://youtube.com/NoxcrewPresents). I am also a Artist who creates music [`@here`](https://open.spotify.com/artist/4HrpPCrSX7RWy5MOxSvHzy).
+I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school. I love playing Minecraft and creating Datapacks / Plugins for the game. I am a big fan of [MCChampionships](https://noxcrew.com/mcc) made by the [Noxcrew](https://youtube.com/NoxcrewPresents). I am also a Artist who creates music [`@here`](https://open.spotify.com/artist/4HrpPCrSX7RWy5MOxSvHzy).
 
 ## 🔧 Skills and Software
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
