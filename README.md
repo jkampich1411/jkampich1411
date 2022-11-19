@@ -30,7 +30,7 @@ I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, liv
 [![ytsubs](https://img.shields.io/youtube/channel/subscribers/UCByPPfZxufy_-vBIDzhnYVg?logo=youtube&style=for-the-badge)](https://jkdev.run)
 [![dc](https://img.shields.io/discord/510412740364599317?label=Discord&logo=discord&style=for-the-badge&color=blue)](https://jkdev.run)
 [![gitfollow](https://img.shields.io/github/followers/jkampich1411?logo=github&style=for-the-badge)](https://jkdev.run)
-[![gitorgstars](https://img.shields.io/github/stars/thejakobcraft?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.run)
+[![gitorgstars](https://img.shields.io/github/stars/jkdevrun?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.run)
 [![twitshstatus](https://img.shields.io/twitch/status/thejakobcraft?logo=twitch&style=for-the-badge)](https://jkdev.run)
 
 ## 💳 Support Me:
