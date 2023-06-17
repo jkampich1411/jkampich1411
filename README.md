@@ -25,7 +25,7 @@ I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, liv
 [![gitorgstars](https://img.shields.io/github/stars/jkdevrun?label=Org%20Stars&logo=github&style=for-the-badge)](https://jkdev.io)
 
 ## 🎶 Recent Spotify Activity
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tu5zsz52b6xy5t4ucml56cvlzm&redirect=true)
 
 ### Happy Coding
 ***
