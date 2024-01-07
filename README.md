@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">
 
-I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, living in Lower Austria. I do not work anywhere right now, but I go to school.
+I'm Jakob! I am a developer who tries to make cool stuff. I operate a IPv6 network under my own AS Number.
 
 ## 🔧 Skills and Software
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=blue)
@@ -30,7 +30,7 @@ I'm Jakob! I am a developer who tries to make cool stuff. I am from Austria, liv
 ### Happy Coding
 ***
 
-© 2021 - 2023; jkdev
+© 2021 - 2024; jkdev
 
 <!--LINX-->
 [4]: https://github.com/jkdev-io
