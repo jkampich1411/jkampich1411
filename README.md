@@ -9,6 +9,7 @@ I'm Jakob! I am a developer who tries to make cool stuff. I operate a IPv6 netwo
 [![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet)](#)
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](#)
+[![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=yellow)](#)
 [![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=informational)](#)
 [![](https://img.shields.io/badge/Code-Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=informational)](#)
 
