@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://github.com/jkampich1411/jkampich1411/blob/main/gif/wave.gif" width="30px">
 
-I'm Jakob! I am a developer who tries to make cool stuff. I operate a IPv6 network under my own AS Number.
+I'm Jakob! I am a developer who tries to make cool stuff. I operate an IPv6 network under my own AS Number.
 
 ## 🔧 Skills and Software
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellowgreen)
@@ -18,7 +18,7 @@ I'm Jakob! I am a developer who tries to make cool stuff. I operate a IPv6 netwo
 
 
 #### Hurricane Electric IPv6 Certified
-![](https://ipv6.he.net/certification/create_badge.php?pass_name=jkdevnoc&badge=3)
+[![](https://ipv6.he.net/certification/create_badge.php?pass_name=jkdevnoc&badge=3)](https://jkdev.io/network)
 
 ## &#x1f4c8; GitHub Stats
 [![jc git staz](https://github-readme-stats.vercel.app/api?username=jkampich1411&show_icons=true&theme=synthwave&hide_border=true&count_private=true)](https://jkdev.io)
